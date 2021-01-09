@@ -44,7 +44,7 @@ for(i=0;i<k;i++){
 	 printf("%d }",c[i]);}
 
 
-/*printf("\nB-A = ");
+printf("\nB-A = ");
   for(i=0;i<m;i++)
 {
 flag2=1;
@@ -67,7 +67,7 @@ for(l=0;l<q;l++)
 {
 printf(" \t%d", d[l]);
 }
-*/
+
 
 }
 
