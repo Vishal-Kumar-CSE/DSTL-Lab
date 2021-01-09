@@ -1,8 +1,7 @@
 #include<stdio.h>
 void main()
 {
-    int n,i,j,m,k=0,flag=0
-    ,c[20];
+    int n,i,j,m,k=0,flag=0,c[20];
     printf("\nEnter no. of elements in set A\t");
     scanf("%d", &n);
     int a[n];
